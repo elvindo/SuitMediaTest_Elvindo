@@ -11,7 +11,8 @@ Aplikasi Android ini memiliki tiga layar utama:
 
 ---
 
-Video Demo : https://drive.google.com/file/d/13kp9DS3fOhiKHe3hx03BFt95ISkl7RH5/view?usp=sharing
+### 🎥 Video Demo
+(https://drive.google.com/file/d/13kp9DS3fOhiKHe3hx03BFt95ISkl7RH5/view?usp=sharing)
 
 ---
 
@@ -21,7 +22,7 @@ Menampilkan input nama, input teks untuk pengecekan palindrome, dan dua tombol:
 - **"Check"** untuk menampilkan dialog apakah teks adalah palindrome.
 - **"Next"** untuk menuju ke Second Screen.
 
-<img src="[https://drive.google.com/uc?export=view&id=YOUR_FIRST_SCREEN_IMAGE_ID](https://drive.google.com/file/d/1fGmzlpi0qMN1gzij_Ao9RzibaCf8kFmQ/view?usp=sharing)/uc?export=view&id=YOUR_THIRD_SCREEN_IMAGE_ID" >
+<img src="https://drive.google.com/uc?export=view&id=1fGmzlpi0qMN1gzij_Ao9RzibaCf8kFmQ" width="300">
 
 ---
 
@@ -30,7 +31,7 @@ Menampilkan input nama, input teks untuk pengecekan palindrome, dan dua tombol:
 - Menampilkan **nama user yang dipilih dari Third Screen**.
 - Tombol **"Choose a User"** untuk berpindah ke Third Screen.
 
-<img src="[https://drive.google.com/uc?export=view&id=YOUR_SECOND_SCREEN_IMAGE_ID](https://drive.google.com/file/d/1kchm4VY7o8qZwzf68AVV-wazuLB0bJ7L/view?usp=sharing)/uc?export=view&id=YOUR_THIRD_SCREEN_IMAGE_ID" >
+<img src="https://drive.google.com/uc?export=view&id=1kchm4VY7o8qZwzf68AVV-wazuLB0bJ7L" width="300">
 
 ---
 
@@ -39,8 +40,9 @@ Menampilkan input nama, input teks untuk pengecekan palindrome, dan dua tombol:
 - Menggunakan **RecyclerView** untuk menampilkan avatar, nama, dan email.
 - Ketika user dipilih, namanya akan kembali ke Second Screen.
 
-<img src="[https://drive.google.com](https://drive.google.com/file/d/1-A42EhjcONbEIX--CgiF_SC36ykHLsQp/view?usp=sharing)/uc?export=view&id=YOUR_THIRD_SCREEN_IMAGE_ID" >
+<img src="https://drive.google.com/uc?export=view&id=1-A42EhjcONbEIX--CgiF_SC36ykHLsQp" width="300">
 
+---
 
 ## 🎯 Fitur Utama
 ✅ **Palindrome Checker** - Menentukan apakah teks yang dimasukkan adalah *palindrome*.  
